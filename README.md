@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there and välkommen till min Github 👋
 
 <!--
 **Ganesh-Balaji-Radhakrishnan/Ganesh-Balaji-Radhakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Ganesh Balaji from Sweden, I am a solution driven Front-end Developer capable of performing in a highly collaborative work environment. I create and break things often and some of them might land here in my github.

@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!--<img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Balaji-Radhakrishnan"
-/> -->
+/>
 <img  src="https://github-readme-stats.vercel.app/api?username=Ganesh-Balaji-Radhakrishnan&count_private=true&hide=stars,prs,issues,contribs&theme=dark&title_color=7DDBFC&show_icons=true"/>
-
+ -->
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-Balaji-Radhakrishnan&theme=dark&title_color=7DDBFC&show_icons=true)

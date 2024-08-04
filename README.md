@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am Ganesh Balaji from Sweden, I am a solution driven Front-end Developer capable of performing in a highly collaborative work environment. I create and break things often and some of them might land here in my github.
+- I am Ganesh Balaji from Sweden, I am a solution-driven Software Developer capable of performing in a highly collaborative work environment. I create and break things often and some of them might land here in my GitHub.
 
 ---
 
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ---
 ### Reach me through
-
-- I am open for collobrations and looking for a full-time front end developer role.
 
 <p>
 <a href="https://twitter.com/thedevgb">
